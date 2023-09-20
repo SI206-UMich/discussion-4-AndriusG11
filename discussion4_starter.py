@@ -5,7 +5,7 @@ class Rectangle():
         self.height = height
 
 
-   #test
+   
     
     def __str__(self):
         return f"A rectangle with width {self.width} and height {self.height}"
